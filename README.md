@@ -1,96 +1,23 @@
-## 👋 About Me
+<h1 align="center">Hi 👋, I'm Jagadish Nalamalapu</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Tech Innovator</h3>
 
-Hi, I'm Jagadeesh Nalamalapu, a passionate full-stack developer specializing in React, Node.js, and AI integration. I have a strong foundation in building end-to-end web applications that are both scalable and user-friendly. Currently pursuing my B.Tech in Computer Science, I'm deeply committed to creating technology that solves real-world problems, particularly in education and e-commerce domains.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshreddy14&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshreddy14" /> </p>
 
-I'm constantly expanding my skill set by exploring new technologies like WebAssembly and Rust, and I believe in the power of clean code and efficient architectures. When I'm not working on my projects, I enjoy contributing to open-source initiatives, participating in coding competitions, and helping aspiring developers grow their technical skills. My goal is to build applications that not only function well but also create meaningful experiences for users.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadeeshreddy14" alt="jagadeeshreddy14" /></a> </p>
 
-## 🛠️ My Skills
+- 🔭 I’m currently working on [Food Ordering App](https://github.com/Jagadeeshreddy14/food-delivery-app-live-location.git)
 
-### **Programming Languages**
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+- 📫 How to reach me **nallamaplujagadeeshreddy@gmail.com**
 
-### **Frontend Development**
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS3">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="Vite">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### **Backend & Database**
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### **AI & Cloud Services**
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT">
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot">
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase">
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadeeshreddy14&show_icons=true&locale=en&layout=compact" alt="jagadeeshreddy14" /></p>
 
-### **Tools & Platforms**
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="npm">
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadeeshreddy14&show_icons=true&locale=en" alt="jagadeeshreddy14" /></p>
 
-
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Jagadeeshreddy14&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jagadeeshreddy14&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Jagadeeshreddy14&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-### **📧 Email:** [nallamaplujagadeeshreddy@gmail.com](mailto:nallamaplujagadeeshreddy@gmail.com)
-
-### **💼 LinkedIn:** [Jagadeesh Nalamalapu](https://www.linkedin.com/in/jagadish-nalamalapu-66b853268/)
-
-### **💻 GitHub:** [Jagadeeshreddy14](https://github.com/Jagadeeshreddy14)
-
-### **🌐 Live Projects:** [food-express-q9vj.onrender.com](https://food-express-q9vj.onrender.com/)
-
-</div>
-
-## 🚀 Featured Projects
-
-### **🛍️ AI-Powered E-Commerce Platform**
-- **Tech Stack:** React, Node.js, MongoDB, Express
-- **Features:** User authentication, product management, secure payments, admin dashboard
-- **GitHub:** [View Repository](https://github.com/Jagadeeshreddy14/Ai-Website-Builder)
-
-### **🤖 Smart Exam Proctoring System**
-- **Tech Stack:** Python, OpenCV, TensorFlow, Face Recognition
-- **Features:** Real-time monitoring, behavioral analysis, cheating detection
-- **GitHub:** [View Repository](https://github.com/Jagadeeshreddy14/Smart-Online-Exam-Proctoring-Assist-for-Cheating-Detection)
-
-### **📚 Learning Management System**
-- **Tech Stack:** JavaScript, Node.js, MongoDB
-- **Features:** Course management, student tracking, content delivery
-- **GitHub:** [View Repository](https://github.com/Jagadeeshreddy14/lms)
-
-### **🍔 Food Ordering System**
-- **Tech Stack:** MERN Stack, Real-time features
-- **Features:** Order tracking, payment integration, restaurant management
-- **GitHub:** [View Repository](https://github.com/Jagadeeshreddy14/apex-food-ordering-system)
-
----
-
-<div align="center">
-
-⭐ **"If you find my projects interesting, consider giving them a star!"** ⭐
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Jagadeeshreddy14&color=blue&style=flat-square)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeeshreddy14&" alt="jagadeeshreddy14" /></p>
