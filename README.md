@@ -5,10 +5,10 @@
 const developer: DeveloperProfile = {
   name: "Jagadeesh Nalamalapu",
   title: "Full-Stack Developer & AI Enthusiast",
-  education: "B.Tech Computer Science at Kalasalingam Academy of Research and Education",
-  bio: "Passionate about building scalable web applications and AI-powered solutions that solve real-world problems. With hands-on experience in modern web technologies and machine learning, I focus on creating efficient, user-centric applications that bridge technology with practical needs.",
-  currentFocus: "Developing AI-powered e-commerce platforms and exploring advanced web technologies",
-  learning: ["Rust", "WebAssembly", "Cloud Architecture", "Advanced ML Models"]
+  
+  bio: "Passionate about building scalable web applications and AI-powered solutions that solve real-world problems.",
+  
+  
 };
 ```
 
@@ -19,36 +19,6 @@ I'm a Computer Science undergraduate passionate about full-stack development and
 **📚 Education:** B.Tech in Computer Science | CGPA: 8.01/10.0  
 **📍 Location:** Madanapalle, Andhra Pradesh, India  
 **🎯 Career Goal:** To build impactful digital solutions that improve people's lives
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ **Full-Stack E-Commerce Platform**
-*Modern online shopping experience with AI recommendations*
-```javascript
-Tech: React • Node.js • MongoDB • Express • Stripe API
-Features: User Auth • Product Management • Secure Payments • Admin Dashboard
-Live Demo: https://food-express-q9vj.onrender.com/
-GitHub: https://github.com/Jagadeeshreddy14/Ai-Website-Builder
-```
-
-### 🤖 **Smart Exam Proctoring System**
-*AI-powered cheating detection for online exams*
-```python
-Tech: Python • OpenCV • TensorFlow • Face Recognition
-Features: Real-time Monitoring • Behavioral Analysis • Secure Platform
-Status: Completed with 95% accuracy rate
-GitHub: https://github.com/Jagadeeshreddy14/Smart-Online-Exam-Proctoring
-```
-
-### 📊 **Predictive Analytics Dashboard**
-*ML-powered insights for business decision making*
-```python
-Tech: Python • Scikit-learn • PowerBI • Tableau
-Features: Data Visualization • Predictive Models • Real-time Analytics
-Use Case: Pest control optimization, sales forecasting
-```
 
 ---
 
@@ -72,7 +42,7 @@ Use Case: Pest control optimization, sales forecasting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,6 +51,33 @@ Use Case: Pest control optimization, sales forecasting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ **Full-Stack E-Commerce Platform**
+*Modern online shopping experience with AI recommendations*
+```javascript
+Tech: React • Node.js • MongoDB • Express • Stripe API
+Features: User Auth • Product Management • Secure Payments • Admin Dashboard
+GitHub: https://github.com/Jagadeeshreddy14/Ai-Website-Builder
+```
+
+### 🤖 **Smart Exam Proctoring System**
+*AI-powered cheating detection for online exams*
+```python
+Tech: Python • OpenCV • TensorFlow • Face Recognition
+Features: Real-time Monitoring • Behavioral Analysis • Secure Platform
+GitHub: https://github.com/Jagadeeshreddy14/Smart-Online-Exam-Proctoring
+```
+
+### 📊 **Predictive Analytics Dashboard**
+*ML-powered insights for business decision making*
+```python
+Tech: Python • Scikit-learn • PowerBI • Tableau
+Features: Data Visualization • Predictive Models • Real-time Analytics
+```
 
 ---
 
@@ -104,25 +101,6 @@ Use Case: Pest control optimization, sales forecasting
 
 ---
 
-## 📈 Activity Graph
-
-<!-- Activity Graph -->
-[![Jagadeesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jagadeeshreddy14&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 👀 Visitor Count
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Jagadeeshreddy14&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
-
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me!
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -136,41 +114,15 @@ Thank you for visiting my profile! Feel free to explore my repositories and conn
 
 ---
 
-## 🎯 Currently
+## 🎯 Currently Working On
 
 ```javascript
 const currentStatus = {
-  workingOn: [
-    "Advanced e-commerce features with AI recommendations",
-    "Real-time collaboration tools for developers",
-    "Open-source API integration library"
-  ],
-  learning: [
-    "Rust for systems programming",
-    "WebAssembly for performance optimization",
-    "Advanced cloud architecture patterns"
-  ],
-  interestedIn: [
-    "Full-stack web development",
-    "Machine learning applications",
-    "Open source contributions",
-    "Performance optimization",
-    "Tech education & mentoring"
-  ]
+  workingOn: "Advanced e-commerce features with AI recommendations",
+  learning: ["Rust", "WebAssembly", "Cloud Architecture"],
+  exploring: "Real-time collaboration tools and API integrations"
 };
 ```
-
----
-
-## 📫 Let's Collaborate!
-
-I'm always open to interesting projects, collaborations, and discussions about technology. Whether it's:
-- 🤝 Collaborating on open-source projects
-- 💡 Discussing innovative tech ideas
-- 🎯 Building solutions for real-world problems
-- 📚 Sharing knowledge and learning together
-
-Feel free to reach out!
 
 ---
 
@@ -180,15 +132,7 @@ Feel free to reach out!
 
 ```typescript
 // Thanks for visiting! Let's build something amazing together!
-function connect(): Collaboration {
-  return {
-    projects: "Let's work on something meaningful",
-    learning: "We can learn and grow together",
-    impact: "Creating solutions that matter"
-  };
-}
-
-connect(); // Ready when you are! 🚀
+console.log("Let's connect and collaborate on exciting projects!");
 ```
 
 </div>
