@@ -1,158 +1,70 @@
-# Jagadeesh Nalamalapu
+# 👋 Hi, I'm Jagadeesh Nalamalapu
 
-```typescript
-const profile = {
-  name: "Jagadeesh Nalamalapu",
-  bio: "Full-stack developer passionate about creating amazing web experiences, 
-currently pursuing my B.Tech in Computer Science at Kalasalingam Academy 
-of Research and Education. With hands-on experience in building scalable 
-web applications, I specialize in modern technologies like React, Node.js, 
-and MongoDB. My focus is on developing efficient, user-centric solutions 
-that bridge technology with real-world needs.",
-  interests: "• Full-stack web development with modern JavaScript frameworks
-• Machine Learning applications in web technologies
-• Open source contributions and community building
-• Performance optimization and web security
-• Tech education and mentoring aspiring developers
-• Building tools that solve real-world problems",
-  skills: [
-    "React",
-    "Angular",
-    "Next.js",
-    "HTML5",
-    "CSS3",
-    "Tailwind",
-    "Bootstrap",
-    "Vue.js",
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "PostgreSQL",
-    "GitHub Actions",
-    "TensorFlow",
-    "OpenCV",
-    "PyTorch",
-    "Pandas",
-    "NumPy",
-    "Scikit-Learn",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java"
-  ],
-}
-```
+**🎓 B.Tech Computer Science Student | 💻 Full-Stack Developer | 🤖 AI Enthusiast**
 
-## 👀 I'm interested in
+📍 Madanapalle, Andhra Pradesh, India  
+📧 nallamaplujagadeeshreddy@gmail.com  
+📱 +91 8074563501  
+🔗 [LinkedIn](https://linkedin.com/in/jagadeesh-nalamalapu) | [GitHub](https://github.com/Jagadeeshreddy14)
 
-• Full-stack web development with modern JavaScript frameworks
-• Machine Learning applications in web technologies
-• Open source contributions and community building
-• Performance optimization and web security
-• Tech education and mentoring aspiring developers
-• Building tools that solve real-world problems
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'Jagadeeshreddy14' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Jagadeeshreddy14/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'Jagadeeshreddy14' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jagadeeshreddy14&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</p>
+---
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'Jagadeeshreddy14' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jagadeeshreddy14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  ![Jagadeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagadeeshreddy14&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeshreddy14&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Jagadeeshreddy14&theme=radical&hide_border=true)
+
 </div>
 
-## 🔝 Most Used Languages
+---
 
-<!-- ⚠️ Important: Replace 'Jagadeeshreddy14' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeshreddy14&layout=compact&langs_count=10&theme=dark"/>
-</div>
+## 🛠️ Tech Stack
 
-## 🔥 Contribution Streak
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- ⚠️ Important: Replace 'Jagadeeshreddy14' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeeshreddy14&theme=dark&hide_border=false" />
-</div>
+### **Web Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 💻 Tech Stack
+### **Data & Analytics**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-```json
-{
-  "frontend": [
-    "React",
-    "Angular",
-    "Next.js",
-    "HTML5",
-    "CSS3",
-    "Tailwind",
-    "Bootstrap",
-    "Vue.js"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "PostgreSQL"
-  ],
-  "devops": [
-    "GitHub Actions"
-  ],
-  "ai/ml": [
-    "TensorFlow",
-    "OpenCV",
-    "PyTorch",
-    "Pandas",
-    "NumPy",
-    "Scikit-Learn"
-  ],
-  "languages": [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java"
-  ]
-}
-```
+### **Machine Learning**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 🌐 Socials
+---
 
-```javascript
-const socials = {
-  github: "Jagadeeshreddy14",
-  linkedin: "https://www.linkedin.com/in/jagadish-nalamalapu-66b853268/",
-  website: "https://food-express-q9vj.onrender.com/",
-}
-```
+## 📚 Education
 
-<div>
-<a href="https://food-express-q9vj.onrender.com/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://github.com/Jagadeeshreddy14"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jagadish-nalamalapu-66b853268/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</div>
+**🎓 Bachelor of Technology in Computer Science**  
+*Kalasalingam Academy of Research and Education* | 2022 – Present  
+📈 **CGPA:** 8.01/10.0
 
-## 📫 How to reach me
+**🏫 Class XII**  
+*V.B.R Junior College* | 2020 – 2022  
+📊 **Percentage:** 77%
 
-```javascript
-const contact = {
-  email: "nallamaplujagadeeshreddy@gmail.com",
-}
-```
+**🏫 Class X**  
+*Sri Vidyanikethan English Medium High School* | 2019 – 2020  
+📊 **Percentage:** 77%
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+---
 
-process.exit(0); // Until next time 👋
-```
+## 🚀 Featured Projects
+
+### 🛍️ **E-Commerce Website**
+*A full-featured online shopping platform*
