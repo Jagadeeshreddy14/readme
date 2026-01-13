@@ -40,24 +40,15 @@ I'm constantly expanding my skill set by exploring new technologies like WebAsse
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="npm">
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
 
+
+
 ## 📊 GitHub Stats
 
-<div align="center">
+![Jagadeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagadeeshreddy14)
 
-### **Overall Activity**
-![Jagadeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagadeeshreddy14&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-### **Coding Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jagadeeshreddy14&theme=dark&hide_border=true)
-
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeshreddy14&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-### **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jagadeeshreddy14&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeshreddy14)
 
 </div>
-
 ## 📫 Connect With Me
 
 <div align="center">
